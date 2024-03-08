@@ -1,0 +1,43 @@
+//addition
+var num = 5;
+var num1 = 5;
+var sum = num + num1;
+console.log(sum);
+//divide
+var mobiles = 100;
+var people = 20;
+console.log(mobiles % people);
+//multiplication
+var num3 = 10;
+var num4 = 5;
+var power = num3 > num4;
+console.log(power);
+var MyName1 = "SAIM";
+var FullName = "Dilshad Ali";
+var mod = MyName1 + " " + FullName;
+console.log(mod);
+var name2 = "hello saim";
+console.log(name2);
+var personName = "saim shaikh";
+console.log("hello", personName, "would u like to some c++ today?");
+var personName0 = "saimshaikh ";
+var personName1 = "Saim collection";
+var personName2 = "honda civic";
+var personName3 = "Audi";
+var personName4 = "vizel";
+var personName5 = "express";
+var personName6 = "125";
+console.log(personName1);
+console.log(personName2);
+console.log(personName3);
+console.log(personName4);
+console.log(personName5);
+console.log(personName6);
+var nam2 = 4;
+var name3 = 8;
+var mod1 = nam2 > name3;
+console.log(mod1);
+var name9 = "saim shaikh";
+var lastName = "dilshad ali";
+var name7 = name9 + "       " + lastName;
+console.log(name7);
